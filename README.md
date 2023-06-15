@@ -1,7 +1,16 @@
 # Restaurant Project
 
-## Introduction
-A restaurant is in need of my assistance to help the restaurant stay afloat - the restaurant has captured some very basic data from their few months of operation but have no idea how to use their data to help them run the business. The restaurant want me to perform analysis on their data to get insights that may help them to decide whether to expand the business or make changes.
+## Instructions
+I have been instructed to create, deliver and present my own database project. My project should reflect all major learning outcomes from the 8-week SQL bootcamp. The minimum deliverables are:
+- Create and design a relational DB of your choice with minimum 5 tables
+- Set Primary and Foreign Key constraints to create relations between the tables
+- Write queries to select required sample data
+- Use any type of the joins, create a view.
+- Create a stored function that can be applied to a query in your DB
+- Create a trigger and demonstrate how it runs
+- Prepare an example query with a subquery to demonstrate how to extract data from your DB for analysis
+- Build an ER diagram where all table relations are shown
+
 
 ## Datasets used
 Five key datasets for this case study
