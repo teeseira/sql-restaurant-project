@@ -1,0 +1,9 @@
+﻿product_id,product_name,price,supplied_by
+100,hamburger,3.99,S3
+101,fries,1.89,S3
+102,soda,1,S4
+103,ice cream,1.49,S1
+104,straw,,S1
+105,napkin,,S2
+106,fork,,S2
+107,spoon,,S2
