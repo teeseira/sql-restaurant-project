@@ -1,7 +1,7 @@
 # Restaurant Project
 
 ## Instructions
-I have been instructed to create, deliver and present my own database project. My project should reflect all major learning outcomes from the 8-week SQL bootcamp. The minimum deliverables are:
+I have been created, delivered and presented my own database project. The minimum deliverables are:
 - Create and design a relational DB of your choice with minimum 5 tables
 - Set Primary and Foreign Key constraints to create relations between the tables
 - Write queries to select required sample data
