@@ -1,7 +1,7 @@
 # Restaurant Project
 
 ## Instructions
-I have created, delivered and presented my own database project. The minimum deliverables are:
+The minimum deliverables for my project are:
 - Create and design a relational DB of your choice with minimum 5 tables
 - Set Primary and Foreign Key constraints to create relations between the tables
 - Write queries to select required sample data
@@ -13,7 +13,7 @@ I have created, delivered and presented my own database project. The minimum del
 
 
 ## Datasets used
-Five key datasets for this case study
+The five key datasets for my case study:
 - <strong>customers</strong>: The customers table captures customers information, including their name, email, and who referred them to the restaurant.
 - <strong>employees</strong>: The employees table maps the employee_id, name, salary, occupation, hire_date and who supervises them.
 - <strong>transactions</strong>: The transactions table maps the transaction details such as type, amount and date of transaction.
