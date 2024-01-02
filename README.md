@@ -1,4 +1,7 @@
 # Restaurant Project
+Task: My project involves designing a relational database with at least 5 tables establishing primary and foreign key constraints for table relationships. It includes writing queries, applying various joins, creating a view, implementing a stored function, creating and demonstrating a trigger, showcasing a subquery example for data extraction, and building an Entity-Relationship (ER) diagram to visually represent table relations.
+
+Goal: The goal is to showcase comprehensive database management skills through practical application and analysis.
 
 ## Instructions
 The minimum deliverables for my project are:
