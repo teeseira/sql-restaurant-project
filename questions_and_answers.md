@@ -1,7 +1,5 @@
 # Restaurant Database
 
-### by Tidi-Seira
-
 [**Click here to review or load up my SQL script**](https://github.com/teeseira/sql-restaurant-project/blob/main/restaurant%20sql%20script.sql)
 
 ## Tasks
